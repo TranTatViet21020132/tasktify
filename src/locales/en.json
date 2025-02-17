@@ -1,0 +1,91 @@
+{
+  "login.mainTitle": "Welcome back!",
+  "login.subTitle": "Welcome back! Please enter your details",
+  "login.dontHaveAccount": "Don't have an account?",
+  "login.signUp": "Sign up",
+
+  "signup.mainTitle": "Create an account",
+  "signup.subTitle": "Sign up now and unlock exclusive access!",
+  "signup.alreadyHaveAccount": "Already have an account?",
+  "signup.login": "Log in",
+
+  "form.email.label": "Email",
+  "form.password.label": "Password",
+  "form.confirmPassword.label": "Confirm Password",
+  "form.name.label": "Name",
+  "form.homeTown.label": "Home Town",
+
+  "form.email.placeholder": "Example: someone@example.com",
+  "form.password.placeholder": "",
+  "form.confirmPassword.placeholder": "",
+  "form.name.placeholder": "",
+  "form.homeTown.placeholder": "",
+
+  "form.submit": "Submit",
+  "form.submitting": "Submitting...",
+
+  "menu.logout": "Logout",
+
+  "error.emailInvalid": "Invalid email format",
+  "error.passwordTooShort": "Password is too short",
+  "error.passwordTooLong": "Password is too long",
+  "error.nameTooShort": "Name is too short",
+  "error.nameTooLong": "Name is too long",
+  "error.hometownTooShort": "Hometown is too short",
+  "error.hometownTooLong": "Hometown is too long",
+  "error.passwordsDoNotMatch": "Passwords do not match",
+  "error.nameRequired": "Name is required",
+  "error.descriptionTooLong": "Description is too long",
+
+  "barChart.title": "Your Statistics",
+  "barChart.description": "Monthly Task Progress",
+  "barChart.legend.unfinished": "Unfinished",
+  "barChart.legend.completed": "Completed",
+
+  "progressChart.title": "Completed",
+
+  "modal.action.cancel": "Cancel",
+  "modal.action.save": "Save",
+  "modal.action.saving": "Saving...",
+  "modal.action.delete": "Delete",
+  "modal.action.deleting": "Deleting...",
+  "modal.addTask.title": "Add New Task",
+  "modal.editTask.title": "Edit Task",
+  "modal.label.title": "Title",
+  "modal.label.content": "Content",
+  "modal.label.completed": "Completed",
+  "modal.warning.title": "Are you absolutely sure?",
+  "modal.warning.description": "This action cannot be undone. This will permanently delete the data from servers.",
+
+  "errorPage.title": "Something's missing.",
+  "errorPage.description": "Sorry, we can't find that page. You'll find lots to explore on the home page.",
+  "errorPage.backButton": "Back to Previous Page",
+
+  "table.action.edit": "Edit",
+  "table.action.delete": "Delete",
+  "table.header.ID": "ID",
+  "table.header.title": "Title",
+  "table.header.content": "Content",
+  "table.header.date": "Date",
+  "table.header.status": "Status",
+  "table.statuses.label.completed": "Completed",
+  "table.statuses.label.onGoing": "On Going",
+
+  "toolbar.filter.placeholder.title": "Filter task by title",
+  "toolbar.filter.status": "Status",
+  "toolbar.filter.reset": "Reset",
+  "toolbar.pagination.rowsPerPage": "Rows per page",
+  "toolbar.pagination.pageOf": "Page {{current}} of {{total}}",
+
+  "sidebar.title.home": "Home",
+  "sidebar.title.taskList": "Task List",
+  "sidebar.title.taskTable": "Task Table",
+
+  "toast.updated.success": "Task {{taskID}} updated successfully",
+  "toast.created.success": "Task created successfully",
+  "toast.delete.success": "Task {{taskID}} deleted successfully",
+  "toast.login.success": "Login successfully",
+  "toast.signup.success": "Signup successfully",
+  "toast.logout.success": "Logout successfully",
+  "toast.session.expired": "Your session has expired, please login again"
+}

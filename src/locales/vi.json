@@ -1,0 +1,91 @@
+{
+  "login.mainTitle": "Chào mừng trở lại!",
+  "login.subTitle": "Chào mừng trở lại! Vui lòng nhập thông tin của bạn",
+  "login.dontHaveAccount": "Chưa có tài khoản?",
+  "login.signUp": "Đăng ký",
+
+  "signup.mainTitle": "Tạo tài khoản",
+  "signup.subTitle": "Đăng ký ngay để mở khóa quyền truy cập độc quyền!",
+  "signup.alreadyHaveAccount": "Đã có tài khoản?",
+  "signup.login": "Đăng nhập",
+
+  "form.email.label": "Email",
+  "form.password.label": "Mật khẩu",
+  "form.confirmPassword.label": "Xác nhận mật khẩu",
+  "form.name.label": "Tên",
+  "form.homeTown.label": "Quê quán",
+
+  "form.email.placeholder": "Ví dụ: someone@example.com",
+  "form.password.placeholder": "",
+  "form.confirmPassword.placeholder": "",
+  "form.name.placeholder": "",
+  "form.homeTown.placeholder": "",
+  
+  "form.submit": "Gửi",
+  "form.submitting": "Đang gửi...",
+
+  "menu.logout": "Đăng xuất",
+
+  "error.emailInvalid": "Email không hợp lệ",
+  "error.passwordTooShort": "Mật khẩu quá ngắn",
+  "error.passwordTooLong": "Mật khẩu quá dài",
+  "error.nameTooShort": "Tên quá ngắn",
+  "error.nameTooLong": "Tên quá dài",
+  "error.hometownTooShort": "Quê quán quá ngắn",
+  "error.hometownTooLong": "Quê quán quá dài",
+  "error.passwordsDoNotMatch": "Mật khẩu không khớp",
+  "error.nameRequired": "Tên là bắt buộc",
+  "error.descriptionTooLong": "Mô tả quá dài",
+
+  "barChart.title": "Thống kê của bạn",
+  "barChart.description": "Tiến độ task hàng tháng",
+  "barChart.legend.unfinished": "Chưa hoàn thành",
+  "barChart.legend.completed": "Đã hoàn thành",
+
+  "progressChart.title": "Đã hoàn thành",
+
+  "modal.action.cancel": "Hủy",
+  "modal.action.save": "Lưu",
+  "modal.action.saving": "Đang Lưu...",
+  "modal.action.delete": "Xoá",
+  "modal.action.deleting": "Đang xoá...",
+  "modal.addTask.title": "Thêm task mới",
+  "modal.editTask.title": "Chỉnh sửa task",
+  "modal.label.title": "Tiêu đề",
+  "modal.label.content": "Nội dung",
+  "modal.label.completed": "Hoàn thành",
+  "modal.warning.title": "Bạn có chắc chắn xoá không?",
+  "modal.warning.description": "Hành động này sẽ không thể được hoàn tác. Điều này sẽ xoá dữ liệu khỏi server hoàn toàn.",
+
+  "errorPage.title": "Đang thiếu gì đó.",
+  "errorPage.description": "Xin lỗi, chúng tôi không thể tìm thấy trang đó. Bạn có thể khám phá nhiều điều thú vị trên trang chủ.",
+  "errorPage.backButton": "Quay lại trang trước",
+
+  "table.action.edit": "Chỉnh sửa",
+  "table.action.delete": "Xoá",
+  "table.header.ID": "ID",
+  "table.header.title": "Tiêu đề",
+  "table.header.content": "Nội dung",
+  "table.header.date": "Ngày",
+  "table.header.status": "Trạng thái",
+  "table.statuses.label.completed": "Hoàn thành",
+  "table.statuses.label.onGoing": "Đang làm",
+
+  "toolbar.filter.placeholder.title": "Tìm task theo tiêu đề",
+  "toolbar.filter.status": "Trạng thái",
+  "toolbar.filter.reset": "Đặt lại",
+  "toolbar.pagination.rowsPerPage": "Dòng trên trang",
+  "toolbar.pagination.pageOf": "Trang {{current}} trên {{total}}",
+
+  "sidebar.title.home": "Trang chủ",
+  "sidebar.title.taskList": "Danh sách",
+  "sidebar.title.taskTable": "Bảng",
+
+  "toast.updated.success": "Task {{taskID}} cập nhật thành công",
+  "toast.created.success": "Task tạo thành cong",
+  "toast.delete.success": "Task {{taskID}} xoá thành công",
+  "toast.login.success": "Đăng nhập thành công",
+  "toast.signup.success": "Đăng ký thành công",
+  "toast.logout.success": "Đăng xuất thanh công",
+  "toast.session.expired": "Phiên làm việc của bạn đã hết, vui lòng đăng nhập lại"
+}
